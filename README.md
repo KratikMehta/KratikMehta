@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KratikMehta
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Web Developement in Python.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently studying Data Science and Business Analytics.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects.
 - 📫 How to reach me - kratikmehta57@gmail.com
 
